@@ -1,4 +1,4 @@
-# FandC-hobby-pagewebsite about one of my hobbies employing basic use of html, CSS and javascript
+# FandC-hobby-page website about one of my hobbies employing basic use of html, CSS and javascript
 
 The planning phase entailed me formalising my ideas surrounding fitness and physical culture, conceptualising the site structure and then writting the text by hand as a rough draft. I also regularly referred back to the project breif and made notes for ideas about the site design.
 
